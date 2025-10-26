@@ -1,11 +1,24 @@
 .back_signs{
     position: absolute;
     background-color: #D9D9D9;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 .front_signs{
     position: absolute;
     background-color: #D9D9D9;
     border: 10px solid #F10000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.sign_triangle_1{
+    height: 375px;
+    width: 375px;
+    position: absolute;
+    left: 394px;
+    top: 504px;
 }
 #back_sigh_frame_three_1{
     height: 120px;
@@ -86,6 +99,9 @@
     width: 481px;
     left: 1199px;
     top: 57px;
+    display: flex;
+    flex-direction: column;
+    gap: 0;
 }
 #the_third_back_sign{
     height: 471px;

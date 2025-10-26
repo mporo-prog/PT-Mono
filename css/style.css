@@ -28,10 +28,19 @@ body{
 }
 .red_text{
     color: #F10000;
+    text-align: center;
+    line-height: 150%;
+    font-weight: 100;
 }
 .sign_text{
     font-size: 50px;
     color: #F10000;
+}
+.text_window{
+    color: #fff;
+    font-size: 130px;
+    position: absolute;
+    top: 50px;
 }
 #red_text_60{
     font-size: 60px;
@@ -59,12 +68,18 @@ body{
     background-color: #F10000;
     height: 49px;
     width: 148px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 .red_box_2{
     position: absolute;
     background-color: #F10000;
     height: 60px;
     width: 97px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 #main_text_one{
     width: 1012px;

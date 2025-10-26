@@ -17,6 +17,9 @@
     width: 123px;
     border-top-left-radius: 83px;
     border-top-right-radius: 83px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 .red_windows_rectangle_circle{
     background: linear-gradient(to bottom, #fff, #F10000);
@@ -31,6 +34,17 @@
     height: 220px;
     width: 220px;
     border-radius: 110px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#windows_triangle{
+    background-image: url(../assets/window_triangle.svg);
+    position: absolute;
+    left: 1464px;
+    top: 388px;
+    width: 228px;
+    height: 537px;;
 }
 #circle_one{
     left: 1331px;
