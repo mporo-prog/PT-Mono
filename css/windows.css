@@ -1,0 +1,128 @@
+.red_windows_small_rectandle{
+    background: linear-gradient(to bottom, #fff, #F10000);
+    position: absolute;
+    height: 68px;
+    width: 58px;
+}
+.red_windows_big_rectandle{
+    background: linear-gradient(to bottom, #fff, #F10000);
+    position: absolute;
+    height: 68px;
+    width: 96px;
+}
+.red_windows_rectangle_radius{
+    background: linear-gradient(to bottom, #fff, #F10000);
+    position: absolute;
+    height: 221px;
+    width: 123px;
+    border-top-left-radius: 83px;
+    border-top-right-radius: 83px;
+}
+.red_windows_rectangle_circle{
+    background: linear-gradient(to bottom, #fff, #F10000);
+    position: absolute;
+    height: 66px;
+    width: 66px;
+    border-radius: 33px;
+}
+.red_windows_rectangle_circle_frame_six{
+    background: #fff;
+    position: absolute;
+    height: 220px;
+    width: 220px;
+    border-radius: 110px;
+}
+#circle_one{
+    left: 1331px;
+    top: 68px;
+}
+#circle_two{
+    left: 1331px;
+    top: 391px;
+}
+#circle_three{
+    left: 1331px;
+    top: 714px;
+}
+#rectangle_circle_one{
+    left: 1088px;
+    top: 489px;
+}
+#rectangle_circle_two{
+    left: 1286px;
+    top: 489px;
+}
+#rectangle_circle_three{
+    left: 1088px;
+    top: 794px;
+}
+#rectangle_circle_four{
+    left: 1286px;
+    top: 794px;
+}
+#rectangle_circle_five{
+    left: 1088px;
+    top: 102px;
+}
+#rectangle_circle_six{
+    left: 1286px;
+    top: 102px;
+}
+#small_rectangle_one{
+    left: 185px;
+    top: 153px;
+}
+#small_rectangle_two{
+    left: 40px;
+    top: 795px;
+}
+#big_rectangle_one{
+    left: 320px;
+    top: 435px;
+}
+#big_rectangle_two{
+    left: 526px;
+    top: 815px;
+}
+#big_rectangle_three{
+    left: 1588px;
+    top: 237px;
+}
+#big_rectangle_four{
+    left: 1426px;
+    top: 691px;
+}
+#red_windows_rectangle_radius_first_frame{
+    background: linear-gradient(to bottom, #fff, #F10000);
+    position: absolute;
+    height: 176px;
+    width: 96px;
+    border-top-left-radius: 83px;
+    border-top-right-radius: 83px;
+    left: 793px;
+    top: 749px;
+}
+#rectangle_radius_one{
+    left: 283px;
+    top: 42px;
+}
+#rectangle_radius_two{
+    left: 136px;
+    top: 257px;
+}
+#rectangle_radius_three{
+    left: 430px;
+    top: 257px;
+}
+#rectangle_radius_four{
+    left: 283px;
+    top: 504px;
+}
+#rectangle_radius_five{
+    left: 136px;
+    top: 738px;
+}
+#rectangle_radius_six{
+    left: 430px;
+    top: 738px;
+}

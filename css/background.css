@@ -1,0 +1,124 @@
+.bg_gradient_to_bottom{
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(to bottom, #2D3399, #0F1133);
+    position: relative;
+}
+.bg_gradient_to_top{
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(to top, #2D3399, #0F1133);
+    position: relative;
+}
+#screen_1{
+    width: 100%;
+    height: 1730px;
+    background-image: url('../assets/the_first_frame_bg.svg');
+    position: absolute;
+}
+#screen_2{
+    width: 100%;
+    height: 734px;
+    background-image: url('../assets/the_second_frame_bg.svg');
+    position: absolute;
+}
+#screen_3{
+    width: 765px;
+    height: 737px;
+    background-image: url('../assets/the_third_frame_bg.svg');
+    position: absolute;
+    top: 259px;
+    left:963px;
+}
+#screen_4_1{
+    width: 765px;
+    height: 100%;
+    background-image: url('../assets/the_fourth_frame_1_bg.svg');
+    position: absolute;
+    left:963px;
+}
+#screen_4_2{
+    width: 505px;
+    height: 191px;
+    background-image: url('../assets/the_fourth_frame_2_bg.svg');
+    position: absolute;
+    left:91px;
+    bottom:0px;
+}
+#screen_5_1{
+    width: 505px;
+    height: 100%;
+    background-image: url('../assets/the_fifth_frame_1_bg.svg');
+    position: absolute;
+    left:91px;
+}
+#screen_5_2{
+    width: 498px;
+    height: 69px;
+    background-image: url('../assets/the_fifth_frame_2_bg.svg');
+    position: absolute;
+    left:1192px;
+    bottom:0px;
+}
+#screen_6_1{
+    width: 748px;
+    height: 100%;
+    background-image: url('../assets/the_sixth_frame_1_bg.svg');
+    position: absolute;
+    left:942px;
+}
+#screen_6_2{
+    width: 352px;
+    height: 159px;
+    background-image: url('../assets/the_sixth_frame_2_bg.svg');
+    position: absolute;
+    left: 99px;
+    bottom:0px;
+}
+#screen_7{
+    width: 352px;
+    height: 100%;
+    background-image: url('../assets/the_seventh_frame_bg.svg');
+    position: absolute;
+    left: 99px;
+}
+#text_bg_1{
+    width: 1303px;
+    height: 685px;
+    background-image: url('../assets/text_bg_1.svg');
+    position: absolute;
+    left: 295px;
+    top: 130px;
+}
+#text_bg_2{
+    width: 895px;
+    height: 492px;
+    background-image: url('../assets/text_bg_2.svg');
+    position: absolute;
+    left: 35px;
+    top: 303px;
+}
+#text_bg_3{
+    width: 738px;
+    height: 768px;
+    background-image: url('../assets/text_bg_3.svg');
+    position: absolute;
+    left: 63px;
+    top: 89px;
+}
+#text_bg_4{
+    width: 930px;
+    height: 563px;
+    background-image: url('../assets/text_bg_4.svg');
+    position: absolute;
+    left: 720px;
+    top: 216px;
+}
+#text_bg_5{
+    width: 864px;
+    height: 457px;
+    background-image: url('../assets/text_bg_5.svg');
+    position: absolute;
+    left: 45px;
+    top: 269px;
+}

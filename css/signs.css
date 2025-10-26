@@ -1,0 +1,125 @@
+.back_signs{
+    position: absolute;
+    background-color: #D9D9D9;
+}
+.front_signs{
+    position: absolute;
+    background-color: #D9D9D9;
+    border: 10px solid #F10000;
+}
+#back_sigh_frame_three_1{
+    height: 120px;
+    width: 244px;
+    left: 1432px;
+    top: 301px;
+    border-radius: 33px;
+}
+#front_sigh_frame_three_1{
+    height: 104px;
+    width: 233px;
+    left: 1438px;
+    top: 309px;
+    border-radius: 38px;
+}
+#back_sigh_frame_three_2{
+    height: 120px;
+    width: 244px;
+    left: 1429px;
+    top: 490px;
+    border-radius: 33px;
+}
+#front_sigh_frame_three_2{
+    height: 104px;
+    width: 233px;
+    left: 1435px;
+    top: 498px;
+    border-radius: 38px;
+}
+#back_sigh_frame_three_3{
+    height: 120px;
+    width: 311px;
+    left: 1398px;
+    top: 679px;
+    border-radius: 33px;
+}
+#front_sigh_frame_three_3{
+    height: 104px;
+    width: 301px;
+    left: 1403px;
+    top: 687px;
+    border-radius: 38px;
+}
+#back_sigh_frame_three_4{
+    height: 120px;
+    width: 299px;
+    left: 1402px;
+    top: 868px;
+    border-radius: 33px;
+}
+#front_sigh_frame_three_4{
+    height: 104px;
+    width: 289px;
+    left: 1407px;
+    top: 876px;
+    border-radius: 38px;
+}
+#the_first_back_sign{
+    height: 381px;
+    width: 381px;
+    left: 560px;
+    top: 43px;
+}
+#the_first_front_sign{
+    height: 351px;
+    width: 351px;
+    left: 575px;
+    top: 58px;
+}
+#the_second_back_sign{
+    height: 214px;
+    width: 503px;
+    left: 1188px;
+    top: 48px;
+}
+#the_second_front_sign{
+    height: 196px;
+    width: 481px;
+    left: 1199px;
+    top: 57px;
+}
+#the_third_back_sign{
+    height: 471px;
+    width: 471px;
+    left: 844px;
+    top: 267px;
+}
+#the_third_front_sign{
+    height: 433px;
+    width: 433px;
+    left: 863px;
+    top: 286px;
+}
+#the_fourth_back_sign{
+    height: 247px;
+    width: 471px;
+    left: 496px;
+    top: 744px;
+}
+#the_fourth_front_sign{
+    height: 227px;
+    width: 446px;
+    left: 508px;
+    top: 754px;
+}
+#the_fifth_back_sign{
+    height: 247px;
+    width: 524px;
+    left: 1008px;
+    top: 670px;
+}
+#the_fifth_front_sign{
+    height: 227px;
+    width: 501px;
+    left: 1019px;
+    top: 680px;
+}
