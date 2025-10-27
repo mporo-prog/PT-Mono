@@ -7,6 +7,7 @@
 @import url('letters.css');
 @import url('titles.css');
 @import url('footer.css');
+@import url('pixels_of_buildings.css');
 body{
     width: 1728px;
     height: 996px;
@@ -30,6 +31,12 @@ body{
     color: #F10000;
     text-align: center;
     line-height: 150%;
+    font-weight: 700;
+}
+.red_text_line_height_120{
+    color: #F10000;
+    text-align: center;
+    line-height: 120%;
     font-weight: 700;
 }
 .sign_text{
@@ -93,7 +100,7 @@ body{
 #text_300{
     font-size: 300px;
     left: 305px;
-    top: 57px;
+    top: 58px;
 }
 #text_200_1{
     font-size: 200px;
