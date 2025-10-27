@@ -1,8 +1,9 @@
-.peculiar{
+.peculiar {
     font-size: 150px;
     color: #F10000;
 }
-.point{
+
+.point {
     position: absolute;
     border-radius: 30px;
     width: 60px;
@@ -10,57 +11,68 @@
     background-color: #F10000;
     overflow: hidden;
 }
-.letter{
+
+.letter {
     line-height: 78%;
     font-size: 100px;
     color: #D4D4D4;
     position: absolute;
 }
-#letter_korean{
+
+#letter_korean {
     left: 953px;
     top: 272px;
 }
-#letter_chinese{
+
+#letter_chinese {
     left: 1170px;
     top: 544px;
     rotate: 22deg;
 }
-#letter_english{
+
+#letter_english {
     left: 1249px;
     top: 741px;
 }
-#letter_russian{
+
+#letter_russian {
     left: 1280px;
     top: 926px;
     rotate: 22deg;
 }
-#point_one{
+
+#point_one {
     left: 1385px;
     top: 104px;
 }
-#peculiar_one{
+
+#peculiar_one {
     position: absolute;
     top: -10px;
     left: 11px;
     font-size: 150px;
     color: #fff;
 }
-#point_second{
+
+#point_second {
     left: 1434px;
     top: 497px;
 }
-#peculiar_second{
+
+#peculiar_second {
     position: absolute;
     bottom: -28px;
     right: 8px;
     font-size: 150px;
     color: #fff;
 }
-#point_third{
+
+#point_third {
     left: 1430px;
     top: 780px;
 }
-#peculiar_third{
+
+#peculiar_third {
     position: absolute;
     top: -40px;
     right: 4px;

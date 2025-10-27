@@ -4,6 +4,7 @@
     font-weight: 400;
     font-style: normal;
 }
+
 @font-face {
     font-family: "PT Mono";
     src: url(../fonts/pt-mono_bold.ttf) format('truetype');

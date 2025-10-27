@@ -1,154 +1,191 @@
-.stars{
+.stars {
     line-height: 78%;
     font-size: 46px;
     position: absolute;
     color: #fff;
 }
-#star_1{
+
+#star_1 {
     left: 401px;
     top: 21px;
 }
-#star_2{
+
+#star_2 {
     left: 730px;
     top: 138px;
 }
-#star_3{
+
+#star_3 {
     left: 1005px;
     top: 44px;
 }
-#star_4{
+
+#star_4 {
     left: 1413px;
     top: 98px;
 }
-#star_5{
+
+#star_5 {
     left: 50px;
     top: 800px;
 }
-#star_6{
+
+#star_6 {
     left: 596px;
     top: 917px;
 }
-#star_7{
+
+#star_7 {
     left: 1217px;
     top: 776px;
 }
-#star_8{
+
+#star_8 {
     left: 291px;
     top: 70px;
 }
-#star_9{
+
+#star_9 {
     left: 204px;
     top: 925px;
 }
-#star_10{
+
+#star_10 {
     left: 668px;
     top: 312px;
 }
-#star_11{
+
+#star_11 {
     left: 702px;
     top: 859px;
 }
-#star_12{
+
+#star_12 {
     left: 1014px;
     top: 94px;
 }
-#star_13{
+
+#star_13 {
     left: 1612px;
     top: 70px;
 }
-#star_14{
+
+#star_14 {
     left: 63px;
     top: 527px;
 }
-#star_15{
+
+#star_15 {
     left: 685px;
     top: 444px;
 }
-#star_16{
+
+#star_16 {
     left: 861px;
     top: 779px;
 }
-#star_17{
+
+#star_17 {
     left: 1256px;
     top: 109px;
 }
-#star_18{
+
+#star_18 {
     left: 720px;
     top: 50px;
 }
-#star_19{
+
+#star_19 {
     left: 637px;
     top: 561px;
 }
-#star_20{
+
+#star_20 {
     left: 1229px;
     top: 243px;
 }
-#star_21{
+
+#star_21 {
     left: 1185px;
     top: 814px;
 }
-#star_22{
+
+#star_22 {
     left: 1441px;
     top: 11px;
 }
-#star_23{
+
+#star_23 {
     left: 1690px;
     top: 627px;
 }
-#star_24{
+
+#star_24 {
     left: 230px;
     top: 169px;
 }
-#star_25{
+
+#star_25 {
     left: 79px;
     top: 669px;
 }
-#star_26{
+
+#star_26 {
     left: 849px;
     top: -19px;
 }
-#star_27{
+
+#star_27 {
     left: 797px;
     top: 749px;
 }
-#star_28{
+
+#star_28 {
     left: 1120px;
     top: 184px;
 }
-#star_29{
+
+#star_29 {
     left: 45px;
     top: 120px;
 }
-#star_30{
+
+#star_30 {
     left: 591px;
     top: 577px;
 }
-#star_31{
+
+#star_31 {
     left: 1043px;
     top: 111px;
 }
-#star_32{
+
+#star_32 {
     left: 1079px;
     top: 941px;
 }
-#star_33{
+
+#star_33 {
     left: 1551px;
     top: 554px;
 }
-#star_34{
+
+#star_34 {
     left: 138px;
     top: 54px;
 }
-#star_35{
+
+#star_35 {
     left: 615px;
     top: 121px;
 }
-#star_36{
+
+#star_36 {
     left: 1334px;
     top: 121px;
 }
-#star_37{
+
+#star_37 {
     left: 1661px;
     top: 0;
 }

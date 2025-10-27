@@ -1,4 +1,4 @@
-.red_box_1{
+.red_box_1 {
     position: absolute;
     background-color: #F10000;
     height: 49px;
@@ -7,7 +7,8 @@
     align-items: center;
     justify-content: center;
 }
-.red_box_2{
+
+.red_box_2 {
     position: absolute;
     background-color: #F10000;
     height: 60px;
@@ -16,48 +17,59 @@
     align-items: center;
     justify-content: center;
 }
-.apartment{
+
+.apartment {
     font-size: 40px;
     color: #D9D9D9;
     line-height: 78%;
 }
-#box_one_1{
+
+#box_one_1 {
     left: 1338px;
     top: 205px;
 }
-#box_one_2{
+
+#box_one_2 {
     left: 1481px;
     top: 224px;
 }
-#box_two_1{
+
+#box_two_1 {
     left: 319px;
     top: 255px;
 }
-#box_two_2{
+
+#box_two_2 {
     left: 463px;
     top: 289px;
 }
-#box_three_1{
+
+#box_three_1 {
     left: 625px;
     top: 42px;
 }
-#box_three_2{
+
+#box_three_2 {
     left: 769px;
     top: 75px;
 }
-#box_four_1{
+
+#box_four_1 {
     left: 946px;
     top: 775px;
 }
-#box_four_2{
+
+#box_four_2 {
     left: 954px;
     top: 715px;
 }
-#box_five_1{
+
+#box_five_1 {
     left: 303px;
     top: 664px;
 }
-#box_five_2{
+
+#box_five_2 {
     left: 443px;
     top: 723px;
 }

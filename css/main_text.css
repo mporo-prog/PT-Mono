@@ -1,66 +1,78 @@
-.text_main_screen{
+.text_main_screen {
     line-height: 120%;
     color: #808080;
     position: absolute;
 }
-.main_text{
+
+.main_text {
     position: absolute;
     font-size: 46px;
     line-height: 120%;
 }
-#text{
+
+#text {
     font-size: 46px;
     color: #000;
 }
-#text_regular{
+
+#text_regular {
     left: 239px;
     top: 397px;
 }
-#text_bold{
+
+#text_bold {
     font-weight: 700;
     left: 281px;
     top: 545px;
 }
-#text_300{
+
+#text_300 {
     font-size: 300px;
     left: 305px;
     top: 58px;
 }
-#text_200_1{
+
+#text_200_1 {
     font-size: 200px;
     left: 730px;
     top: 250px;
 }
-#text_200_2{
+
+#text_200_2 {
     font-size: 200px;
     left: 1097px;
     top: 101px;
 }
-#main_text_one{
+
+#main_text_one {
     width: 1012px;
     height: 330px;
     left: 493px;
     top: 364px;
 }
-#main_text_two{
+
+#main_text_two {
     width: 757px;
     height: 220px;
     left: 169px;
     top: 492px;
 }
-#main_text_three{
+
+#main_text_three {
     width: 597px;
     height: 110px;
     left: 194px;
     top: 261px;
 }
-#main_text_four{
+
+#main_text_four {
     width: 722px;
     height: 275px;
     left: 896px;
     top: 401px;
 }
-#main_text_five{
+
+#main_text_five {
     width: 675px;
     height: 165px;
     left: 174px;

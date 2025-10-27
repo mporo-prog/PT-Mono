@@ -1,25 +1,30 @@
-.title{
+.title {
     font-size: 100px;
     position: absolute;
     line-height: 78%;
 }
-#title_1{
+
+#title_1 {
     left: 384px;
     top: 204px;
 }
-#title_2{
+
+#title_2 {
     left: 93px;
     top: 349px;
 }
-#title_3{
+
+#title_3 {
     left: 117px;
     top: 135px;
 }
-#title_4{
+
+#title_4 {
     left: 779px;
     top: 263px;
 }
-#title_5{
+
+#title_5 {
     left: 107px;
     top: 321px;
 }

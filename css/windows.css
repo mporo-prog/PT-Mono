@@ -1,21 +1,24 @@
-.red_windows_small_rectandle{
+.red_windows_small_rectandle {
     background: linear-gradient(to bottom, #fff, #F10000);
     position: absolute;
     height: 68px;
     width: 58px;
 }
-.red_windows_big_rectandle{
+
+.red_windows_big_rectandle {
     background: linear-gradient(to bottom, #fff, #F10000);
     position: absolute;
     height: 68px;
     width: 96px;
 }
-.text_window{
+
+.text_window {
     color: #fff;
     font-size: 130px;
     line-height: 150%;
 }
-.red_windows_rectangle_radius{
+
+.red_windows_rectangle_radius {
     background: linear-gradient(to bottom, #fff, #F10000);
     position: absolute;
     height: 221px;
@@ -26,14 +29,16 @@
     align-items: flex-end;
     justify-content: center;
 }
-.red_windows_rectangle_circle{
+
+.red_windows_rectangle_circle {
     background: linear-gradient(to bottom, #fff, #F10000);
     position: absolute;
     height: 66px;
     width: 66px;
     border-radius: 33px;
 }
-.red_windows_rectangle_circle_frame_six{
+
+.red_windows_rectangle_circle_frame_six {
     background: #fff;
     position: absolute;
     height: 220px;
@@ -43,21 +48,24 @@
     align-items: center;
     justify-content: center;
 }
-.red_windows_big_circles{
+
+.red_windows_big_circles {
     background: linear-gradient(to bottom, #fff, #F10000);
     position: absolute;
     height: 66px;
     width: 66px;
     border-radius: 33px;
 }
-.red_windows_small_circles{
+
+.red_windows_small_circles {
     background: linear-gradient(to bottom, #fff, #F10000);
     position: absolute;
     height: 56px;
     width: 56px;
     border-radius: 28px;
 }
-.windows_triangles{
+
+.windows_triangles {
     background-image: url('../assets/windows_triangle.svg');
     position: absolute;
     height: 308px;
@@ -65,115 +73,143 @@
     left: 134px;
     top: 223px;
 }
-#small_circle_first{
+
+#small_circle_first {
     left: 983px;
     top: 468px;
 }
-#small_circle_second{
+
+#small_circle_second {
     left: 1092px;
     top: 468px;
 }
-#small_circle_third{
+
+#small_circle_third {
     left: 983px;
     top: 670px;
 }
-#small_circle_fourth{
+
+#small_circle_fourth {
     left: 1092px;
     top: 670px;
 }
-#small_circle_fifth{
+
+#small_circle_fifth {
     left: 983px;
     top: 872px;
 }
-#small_circle_sixth{
+
+#small_circle_sixth {
     left: 1092px;
     top: 872px;
 }
-#big_circle_first{
+
+#big_circle_first {
     left: 1569px;
     top: 307px;
 }
-#big_circle_second{
+
+#big_circle_second {
     left: 1248px;
     top: 307px;
 }
-#big_circle_third{
+
+#big_circle_third {
     left: 1248px;
     top: 630px;
 }
-#big_circle_fourth{
+
+#big_circle_fourth {
     left: 1569px;
     top: 630px;
 }
-#windows_triangle{
+
+#windows_triangle {
     background-image: url('../assets/window_triangle.svg');
     position: absolute;
     left: 1464px;
     top: 388px;
     width: 228px;
-    height: 537px;;
+    height: 537px;
+    ;
 }
-#circle_one{
+
+#circle_one {
     left: 1331px;
     top: 68px;
 }
-#circle_two{
+
+#circle_two {
     left: 1331px;
     top: 391px;
 }
-#circle_three{
+
+#circle_three {
     left: 1331px;
     top: 714px;
 }
-#rectangle_circle_one{
+
+#rectangle_circle_one {
     left: 1088px;
     top: 489px;
 }
-#rectangle_circle_two{
+
+#rectangle_circle_two {
     left: 1286px;
     top: 489px;
 }
-#rectangle_circle_three{
+
+#rectangle_circle_three {
     left: 1088px;
     top: 794px;
 }
-#rectangle_circle_four{
+
+#rectangle_circle_four {
     left: 1286px;
     top: 794px;
 }
-#rectangle_circle_five{
+
+#rectangle_circle_five {
     left: 1088px;
     top: 102px;
 }
-#rectangle_circle_six{
+
+#rectangle_circle_six {
     left: 1286px;
     top: 102px;
 }
-#small_rectangle_one{
+
+#small_rectangle_one {
     left: 185px;
     top: 153px;
 }
-#small_rectangle_two{
+
+#small_rectangle_two {
     left: 40px;
     top: 795px;
 }
-#big_rectangle_one{
+
+#big_rectangle_one {
     left: 320px;
     top: 435px;
 }
-#big_rectangle_two{
+
+#big_rectangle_two {
     left: 526px;
     top: 815px;
 }
-#big_rectangle_three{
+
+#big_rectangle_three {
     left: 1588px;
     top: 237px;
 }
-#big_rectangle_four{
+
+#big_rectangle_four {
     left: 1426px;
     top: 691px;
 }
-#red_windows_rectangle_radius_first_frame{
+
+#red_windows_rectangle_radius_first_frame {
     background: linear-gradient(to bottom, #fff, #F10000);
     position: absolute;
     height: 176px;
@@ -183,27 +219,33 @@
     left: 793px;
     top: 749px;
 }
-#rectangle_radius_one{
+
+#rectangle_radius_one {
     left: 283px;
     top: 22px;
 }
-#rectangle_radius_two{
+
+#rectangle_radius_two {
     left: 136px;
     top: 257px;
 }
-#rectangle_radius_three{
+
+#rectangle_radius_three {
     left: 430px;
     top: 257px;
 }
-#rectangle_radius_four{
+
+#rectangle_radius_four {
     left: 283px;
     top: 504px;
 }
-#rectangle_radius_five{
+
+#rectangle_radius_five {
     left: 136px;
     top: 738px;
 }
-#rectangle_radius_six{
+
+#rectangle_radius_six {
     left: 430px;
     top: 738px;
 }
