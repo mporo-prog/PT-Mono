@@ -8,6 +8,34 @@
     font-size: 46px;
     line-height: 120%;
 }
+#text{
+    font-size: 46px;
+    color: #000;
+}
+#text_regular{
+    left: 239px;
+    top: 397px;
+}
+#text_bold{
+    font-weight: 700;
+    left: 281px;
+    top: 545px;
+}
+#text_300{
+    font-size: 300px;
+    left: 305px;
+    top: 58px;
+}
+#text_200_1{
+    font-size: 200px;
+    left: 730px;
+    top: 250px;
+}
+#text_200_2{
+    font-size: 200px;
+    left: 1097px;
+    top: 101px;
+}
 #main_text_one{
     width: 1012px;
     height: 330px;
