@@ -40,11 +40,11 @@
     left:963px;
 }
 #screen_4_2{
-    width: 505px;
-    height: 191px;
+    width: 308px;
+    height: 114px;
     background-image: url('../assets/the_fourth_frame_2_bg.svg');
     position: absolute;
-    left:91px;
+    left:192px;
     bottom:0px;
 }
 #screen_5_1{
@@ -55,11 +55,11 @@
     left:91px;
 }
 #screen_5_2{
-    width: 498px;
-    height: 69px;
+    width: 429px;
+    height: 61px;
     background-image: url('../assets/the_fifth_frame_2_bg.svg');
     position: absolute;
-    left:1192px;
+    left:1226px;
     bottom:0px;
 }
 #screen_6_1{
