@@ -1,15 +1,16 @@
-@import url('reset.css');
-@import url('font.css');
 @import url('background.css');
-@import url('signs.css');
-@import url('windows.css');
-@import url('stars.css');
-@import url('letters.css');
-@import url('titles.css');
-@import url('footer.css');
-@import url('pixels_of_buildings.css');
 @import url('boxes.css');
+@import url('font.css');
+@import url('footer.css');
+@import url('letters.css');
 @import url('main_text.css');
+@import url('pixels_of_buildings.css');
+@import url('reset.css');
+@import url('signs.css');
+@import url('stars.css');
+@import url('style.css');
+@import url('titles.css');
+@import url('windows.css');
 
 body{
     width: 1728px;
