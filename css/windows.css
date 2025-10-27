@@ -18,7 +18,7 @@
     border-top-left-radius: 83px;
     border-top-right-radius: 83px;
     display: flex;
-    align-items: center;
+    align-items: flex-end;
     justify-content: center;
 }
 .red_windows_rectangle_circle{
@@ -38,8 +38,70 @@
     align-items: center;
     justify-content: center;
 }
+.red_windows_big_circles{
+    background: linear-gradient(to bottom, #fff, #F10000);
+    position: absolute;
+    height: 66px;
+    width: 66px;
+    border-radius: 33px;
+}
+.red_windows_small_circles{
+    background: linear-gradient(to bottom, #fff, #F10000);
+    position: absolute;
+    height: 56px;
+    width: 56px;
+    border-radius: 28px;
+}
+.windows_triangles{
+    background-image: url('../assets/windows_triangle.svg');
+    position: absolute;
+    height: 308px;
+    width: 283px;
+    left: 134px;
+    top: 223px;
+}
+#small_circle_first{
+    left: 983px;
+    top: 468px;
+}
+#small_circle_second{
+    left: 1092px;
+    top: 468px;
+}
+#small_circle_third{
+    left: 983px;
+    top: 670px;
+}
+#small_circle_fourth{
+    left: 1092px;
+    top: 670px;
+}
+#small_circle_fifth{
+    left: 983px;
+    top: 872px;
+}
+#small_circle_sixth{
+    left: 1092px;
+    top: 872px;
+}
+#big_circle_first{
+    left: 1569px;
+    top: 307px;
+}
+#big_circle_second{
+    left: 1248px;
+    top: 307px;
+}
+#big_circle_third{
+    left: 1248px;
+    top: 630px;
+}
+#big_circle_fourth{
+    left: 1569px;
+    top: 630px;
+}
 #windows_triangle{
-    background-image: url(../assets/window_triangle.svg);
+    background-image: url('../assets/window_triangle.svg');
     position: absolute;
     left: 1464px;
     top: 388px;
@@ -118,7 +180,7 @@
 }
 #rectangle_radius_one{
     left: 283px;
-    top: 42px;
+    top: 22px;
 }
 #rectangle_radius_two{
     left: 136px;

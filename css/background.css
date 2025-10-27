@@ -81,6 +81,7 @@
     background-image: url('../assets/the_seventh_frame_bg.svg');
     position: absolute;
     left: 99px;
+    overflow: hidden;
 }
 #text_bg_1{
     width: 1303px;

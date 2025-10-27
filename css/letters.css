@@ -1,0 +1,45 @@
+.peculiar{
+    font-size: 150px;
+    color: #F10000;
+}
+.point{
+    position: absolute;
+    border-radius: 30px;
+    width: 60px;
+    height: 60px;
+    background-color: #F10000;
+    overflow: hidden;
+}
+#point_one{
+    left: 1385px;
+    top: 104px;
+}
+#peculiar_one{
+    position: absolute;
+    top: -10px;
+    left: 11px;
+    font-size: 150px;
+    color: #fff;
+}
+#point_second{
+    left: 1434px;
+    top: 497px;
+}
+#peculiar_second{
+    position: absolute;
+    bottom: -28px;
+    right: 8px;
+    font-size: 150px;
+    color: #fff;
+}
+#point_third{
+    left: 1430px;
+    top: 780px;
+}
+#peculiar_third{
+    position: absolute;
+    top: -40px;
+    right: 4px;
+    font-size: 150px;
+    color: #fff;
+}

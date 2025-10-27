@@ -14,11 +14,43 @@
     justify-content: center;
 }
 .sign_triangle_1{
-    height: 375px;
-    width: 375px;
+    background-image: url('../assets/sign_triangle_1.svg');
+    height: 265px;
+    width: 302px;
     position: absolute;
-    left: 394px;
-    top: 504px;
+    left: 430px;
+    top: 521px;
+}
+.sign_triangle_2{
+    background-image: url('../assets/sign_triangle_2.svg');
+    height: 379px;
+    width: 349px;
+    position: absolute;
+    left: 998px;
+    top: 405px;
+}
+.sign_triangle_small{
+    background-image: url('../assets/triangle_small_sigh.svg');
+    height: 152px;
+    width: 166px;
+    position: absolute;
+    left: 1254px;
+    top: 487px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.sign_triangle_big{
+    background-image: url('../assets/triangle_big_sigh.svg');
+    height: 258px;
+    width: 291px;
+    position: absolute;
+    left: 23px;
+    top: 675px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
 }
 #back_sigh_frame_three_1{
     height: 120px;
@@ -30,8 +62,6 @@
 #front_sigh_frame_three_1{
     height: 104px;
     width: 233px;
-    left: 1438px;
-    top: 309px;
     border-radius: 38px;
 }
 #back_sigh_frame_three_2{
@@ -44,8 +74,6 @@
 #front_sigh_frame_three_2{
     height: 104px;
     width: 233px;
-    left: 1435px;
-    top: 498px;
     border-radius: 38px;
 }
 #back_sigh_frame_three_3{
@@ -58,8 +86,6 @@
 #front_sigh_frame_three_3{
     height: 104px;
     width: 301px;
-    left: 1403px;
-    top: 687px;
     border-radius: 38px;
 }
 #back_sigh_frame_three_4{
@@ -72,8 +98,6 @@
 #front_sigh_frame_three_4{
     height: 104px;
     width: 289px;
-    left: 1407px;
-    top: 876px;
     border-radius: 38px;
 }
 #the_first_back_sign{
@@ -85,8 +109,6 @@
 #the_first_front_sign{
     height: 351px;
     width: 351px;
-    left: 575px;
-    top: 58px;
 }
 #the_second_back_sign{
     height: 214px;
@@ -97,8 +119,6 @@
 #the_second_front_sign{
     height: 196px;
     width: 481px;
-    left: 1199px;
-    top: 57px;
     display: flex;
     flex-direction: column;
     gap: 0;
@@ -112,8 +132,6 @@
 #the_third_front_sign{
     height: 433px;
     width: 433px;
-    left: 863px;
-    top: 286px;
 }
 #the_fourth_back_sign{
     height: 247px;
@@ -124,8 +142,6 @@
 #the_fourth_front_sign{
     height: 227px;
     width: 446px;
-    left: 508px;
-    top: 754px;
 }
 #the_fifth_back_sign{
     height: 247px;
@@ -136,6 +152,16 @@
 #the_fifth_front_sign{
     height: 227px;
     width: 501px;
-    left: 1019px;
-    top: 680px;
+}
+#the_sixth_back_sign{
+    height: 130px;
+    width: 244px;
+    left: 1382px;
+    top: 316px;
+    border-radius: 33px;
+}
+#the_sixth_front_sign{
+    height: 113px;
+    width: 233px;
+    border-radius: 38px;
 }
