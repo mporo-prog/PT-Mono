@@ -1,13 +1,13 @@
 @font-face {
     font-family: "PT Mono";
-    src: url('../fonts/PTMono.ttc') format('truetype-collection');
+    src: url('../fonts/PT Mono.ttc') format('truetype-collection');
     font-weight: 400;
     font-style: normal;
 }
 
 @font-face {
     font-family: "PT Mono";
-    src: url('../fonts/PTMono.ttc') format('truetype-collection');
+    src: url('../fonts/PT Mono.ttc') format('truetype-collection');
     font-weight: 700;
     font-style: normal;
 }
