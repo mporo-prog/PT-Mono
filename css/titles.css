@@ -1,3 +1,8 @@
+.title{
+    font-size: 100px;
+    position: absolute;
+    line-height: 78%;
+}
 #title_1{
     left: 384px;
     top: 204px;

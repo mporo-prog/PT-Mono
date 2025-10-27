@@ -1,3 +1,27 @@
+.sign_regular_c{
+    line-height: 78%;
+    font-size: 180px;
+    position: absolute;
+    color: #fff;
+    left: 518px;
+    top: 624px;
+}
+.sign_text{
+    font-size: 50px;
+    color: #F10000;
+    font-weight: 700;
+    line-height: 78%;
+}
+.sign_bold_c{
+    font-weight: 700;
+    line-height: 78%;
+    font-size: 220px;
+    rotate: -24deg;
+    position: absolute;
+    color: #fff;
+    left: 1060px;
+    top: 527px;
+}
 .back_signs{
     position: absolute;
     background-color: #D9D9D9;
@@ -51,6 +75,63 @@
     align-items: center;
     justify-content: center;
 
+}
+.red_text{
+    color: #F10000;
+    text-align: center;
+    line-height: 150%;
+    font-weight: 700;
+}
+.red_text_line_height_120{
+    color: #F10000;
+    text-align: center;
+    line-height: 120%;
+    font-weight: 700;
+}
+.attention{
+    position: absolute;
+    height: 132px;
+    width: 448px;
+    display: flex;
+    flex-direction: row;
+    gap: 12px;
+    align-items: center;
+    justify-content: center;
+    background-color: #D9D9D9;
+    rotate: 22deg;
+    top: 561px;
+    left: -44px;
+}
+.attention_text{
+    line-height: 78%;
+    color: #f10000;
+    font-size: 40px;
+}
+#red_text_180{
+    position: absolute;
+    font-size: 180px;
+    color: #fff;
+    font-weight: 700;
+    top: 55px;
+}
+#red_text_120{
+    position: absolute;
+    font-size: 120px;
+    color: #fff;
+    font-weight: 700;
+    top: 15px;
+}
+#red_text_80{
+    font-size: 80px;
+}
+#red_text_60{
+    font-size: 60px;
+}
+#red_text_50{
+    font-size: 50px;
+}
+#red_text_40{
+    font-size: 40px;
 }
 #back_sigh_frame_three_1{
     height: 120px;

@@ -1,0 +1,40 @@
+.text_main_screen{
+    line-height: 120%;
+    color: #808080;
+    position: absolute;
+}
+.main_text{
+    position: absolute;
+    font-size: 46px;
+    line-height: 120%;
+}
+#main_text_one{
+    width: 1012px;
+    height: 330px;
+    left: 493px;
+    top: 364px;
+}
+#main_text_two{
+    width: 757px;
+    height: 220px;
+    left: 169px;
+    top: 492px;
+}
+#main_text_three{
+    width: 597px;
+    height: 110px;
+    left: 194px;
+    top: 261px;
+}
+#main_text_four{
+    width: 722px;
+    height: 275px;
+    left: 896px;
+    top: 401px;
+}
+#main_text_five{
+    width: 675px;
+    height: 165px;
+    left: 174px;
+    top: 449px;
+}

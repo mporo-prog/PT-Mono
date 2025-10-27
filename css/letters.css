@@ -10,6 +10,30 @@
     background-color: #F10000;
     overflow: hidden;
 }
+.letter{
+    line-height: 78%;
+    font-size: 100px;
+    color: #D4D4D4;
+    position: absolute;
+}
+#letter_korean{
+    left: 953px;
+    top: 272px;
+}
+#letter_chinese{
+    left: 1170px;
+    top: 544px;
+    rotate: 22deg;
+}
+#letter_english{
+    left: 1249px;
+    top: 741px;
+}
+#letter_russian{
+    left: 1280px;
+    top: 926px;
+    rotate: 22deg;
+}
 #point_one{
     left: 1385px;
     top: 104px;

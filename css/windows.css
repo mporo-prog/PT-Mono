@@ -10,6 +10,11 @@
     height: 68px;
     width: 96px;
 }
+.text_window{
+    color: #fff;
+    font-size: 130px;
+    line-height: 150%;
+}
 .red_windows_rectangle_radius{
     background: linear-gradient(to bottom, #fff, #F10000);
     position: absolute;
